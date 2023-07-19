@@ -1,4 +1,3 @@
 # cronometroJS
-Um cronometro simples, feito em JS HTML e CSS
-
-Para visitar o site https://selmargoulart08.github.io/cronometroJS/
+Pagina criada durante meus aprendizados de JavasScript  Feita de maneira simples, porém com tudo mostrado no curso até este momento <br>
+<a href="https://selmargoulart08.github.io/cronometroJS"  target="_blank" rel="noopener noreferrer" > Acesse o site aqui</a>
